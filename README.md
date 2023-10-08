@@ -2,8 +2,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/GreatHavoc/AI-Draw-App)
 ![GitHub contributors](https://img.shields.io/github/contributors/GreatHavoc/AI-Draw-App)
-![GitHub stars](https://img.shields.io/github/stars/GreatHavoc/AI-Draw-App)
-![GitHub forks](https://img.shields.io/github/forks/GreatHavoc/AI-Draw-App)
+![GitHub stars](https://img.shields.io/github/stars/GreatHavoc/AI-Draw-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GreatHavoc/AI-Draw-App?style=social)
 
 Welcome to the AI Draw Handwritten Text Recognition App repository! This cutting-edge mobile application, built with Flutter, harnesses the power of Google's Handwritten Text Recognition Model. With this app, you can transform your handwritten or scribbled text and numbers into digital format with ease.
 
